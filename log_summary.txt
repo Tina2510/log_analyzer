@@ -1,0 +1,9 @@
+Log summary 
+Total unique IPs: 10
+HTTP status code count: 
+STATUS:404: 2
+STATUS:400: 1
+STATUS:301: 1
+STATUS:200: 2
+STATUS:502: 3
+STATUS:500: 1
